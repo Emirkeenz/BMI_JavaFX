@@ -102,4 +102,17 @@ public class BMIController {
     protected void onExitMenuClick() {
         System.exit(0);
     }
+
+    @FXML
+    protected void onHelpMenuClick() {
+        Alert helpAlert = new Alert(Alert.AlertType.INFORMATION);
+        helpAlert.setTitle("Help");
+        helpAlert.setHeaderText("How to Use BMI Calculator");
+        helpAlert.setContentText("This program allows you to calculate your Body Mass Index (BMI).\n\n" +
+                "1. Enter your weight and height.\n" +
+                "2. Choose the appropriate measurement system (kg/cm or lbs/inch).\n" +
+                "3. Click 'Calculate' to see your BMI result and category.\n" +
+                "4. Use the 'Clear' option to reset inputs or 'Exit' to close the application.");
+        helpAlert.showAndWait();
+    }
 }
