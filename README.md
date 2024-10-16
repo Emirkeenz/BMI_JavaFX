@@ -61,11 +61,13 @@ The BMI is calculated based on the provided values, and the result is displayed 
 - **Output:** BMI: 22.8 (Normal)
 
 ## Screenshots
-| Metric Input | English Input |
-|--------------|---------------|
-| ![Metric]![FEFBDC22-834B-4EAE-8724-7BF19B0C6041](https://github.com/user-attachments/assets/85323f61-d715-466f-9788-1a561dd4f0fd) |
-  ![English]![4B0C5C59-97BF-407A-B4C1-0C53745E1934](https://github.com/user-attachments/assets/58a429fa-e98b-415b-bdec-cfbe69642ad4) |
-|  ![Metric]![9E39154F-F438-474A-AB43-F9D5064C4149](https://github.com/user-attachments/assets/018ab4d7-73be-4f1a-9023-cb1b87c41e47) | 
-  ![English]![56430DAD-EF54-497D-8484-8C19B677EAF3](https://github.com/user-attachments/assets/78a0885a-d47b-4b03-bf8e-636c3f1e041b) |
+| Metric System                                           | English System                                          |
+|---------------------------------------------------------|---------------------------------------------------------|
+| ![Metric Screenshot 1]![9E39154F-F438-474A-AB43-F9D5064C4149](https://github.com/user-attachments/assets/17aee2ad-86db-4041-b304-13fb0767a0e0)
+  | ![English Screenshot 1]![56430DAD-EF54-497D-8484-8C19B677EAF3](https://github.com/user-attachments/assets/d21298c9-b51f-4bbe-bcf1-bc79601d13a0)
+ |
+| ![Metric Screenshot 2]![FEFBDC22-834B-4EAE-8724-7BF19B0C6041](https://github.com/user-attachments/assets/520e9ba2-1eca-426c-94d0-a76e5deb1e43)
+ | ![English Screenshot 2]![4B0C5C59-97BF-407A-B4C1-0C53745E1934](https://github.com/user-attachments/assets/b22eaedd-1ceb-404a-abc9-dd8b843a94c0)
+ |
 
 *Note: Add screenshots showing the user interface with examples of both Metric and English inputs.*
