@@ -64,8 +64,8 @@ The BMI is calculated based on the provided values, and the result is displayed 
 | Metric Input | English Input |
 |--------------|---------------|
 | ![Metric]![FEFBDC22-834B-4EAE-8724-7BF19B0C6041](https://github.com/user-attachments/assets/85323f61-d715-466f-9788-1a561dd4f0fd)
-![Metric]![9E39154F-F438-474A-AB43-F9D5064C4149](https://github.com/user-attachments/assets/018ab4d7-73be-4f1a-9023-cb1b87c41e47) | 
-| ![English]![4B0C5C59-97BF-407A-B4C1-0C53745E1934](https://github.com/user-attachments/assets/58a429fa-e98b-415b-bdec-cfbe69642ad4)
+  ![Metric]![9E39154F-F438-474A-AB43-F9D5064C4149](https://github.com/user-attachments/assets/018ab4d7-73be-4f1a-9023-cb1b87c41e47) | 
+ ![English]![4B0C5C59-97BF-407A-B4C1-0C53745E1934](https://github.com/user-attachments/assets/58a429fa-e98b-415b-bdec-cfbe69642ad4)
  ![English]![56430DAD-EF54-497D-8484-8C19B677EAF3](https://github.com/user-attachments/assets/78a0885a-d47b-4b03-bf8e-636c3f1e041b) |
 
 *Note: Add screenshots showing the user interface with examples of both Metric and English inputs.*
